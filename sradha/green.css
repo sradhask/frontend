@@ -2,7 +2,11 @@
     text-decoration: none;
     color: dimgrey;
     margin-right: 2%;
-    margin-top: -3%;
+    margin-top: -4%;
+    
+}
+.logo{
+    margin-top: -2%;
 }
 .main{
     display:flex;
@@ -12,8 +16,40 @@
 }
 .done{
  width: 95%;
- margin-top: -12%;
+ 
 }
+.menu{
+    background-color: rgb(79, 23, 130);
+    color:aliceblue;
+
+
+}
+.hlo{
+    color:chocolate;
+
+}
+.l{
+    background-color: brown;
+    width:150px;
+    height:50px;
+    
+}
+.a{
+    border-bottom: 1px solid white;
+}
+.yes{
+    width:90px;
+    height: 100px;
+    margin-top: 50px;
+}
+.did{
+     display: inline;
+     margin-left: 4%;
+     color:brown;
+}
+
+
+
 
 
 
