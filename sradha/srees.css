@@ -1,8 +1,26 @@
-.main a{
-    text-decoration:done;
-    color:white;
-    margin-right:2%;
-    margin-top: 4%;
-    
+.hello{
+    background-color: antiquewhite;
+}
+.a1{
+       display :flex ;
+       justify-content:center ;
+       margin-top:-2.5%;
+       margin-right: 200px;
 
+}
+.a1 a{
+    text-decoration: none;
+    color:white;
+}
+.row{
+    color:gold;
+    width: 2100px;
+    height: 100px;
+}
+.a1{
+    color:white;
+}
+.a3{
+    color: palevioletred;
+    margin-left: 4%;
 }
