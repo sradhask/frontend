@@ -16,7 +16,6 @@
 .a1{
     color:white;
     
-
 }
 .a3{
     color: palevioletred;
@@ -28,7 +27,7 @@
     margin-left:-23%;
 }
 .a7{
-    background-image: url(../Kurtas-_-Kurtis-Banner\ \(1\).webp);
+    background-image: url(images/Kurtas-_-Kurtis-Banner\ \(1\).webp);
     background-size: contain;
     background-repeat: no-repeat;
     height: 2000px;
@@ -41,9 +40,66 @@
 }
 .a9{
     padding-top: 12%;
+    
 }
-.all{
-    height:3%;
-    width:3%;
+.a12{
+    height:200px;
+    width:200px;
+    margin-top:-120%;
+    border-radius: 50%;
 }
 
+.a13{
+    height:200px;
+    width:200px;
+    margin-left :16%;
+    margin-top: -120%;
+    border-radius: 50%;
+    
+}
+.s3{
+    height: 200px;
+    width: 200px;
+    margin-top:-120%;
+    margin-left: 32%;
+    border-radius: 50%;
+
+}
+.s4{
+    height: 200px;
+    width: 200px;
+    margin-top: -120%;
+    border-radius:50% ;
+    margin-left:48% ;
+}
+.s5{
+    height:200px;
+    width:200px;
+    margin-top: -120%;
+    margin-left: 64%;
+    border-radius:50% ;
+}
+.s4{
+    height: 200px;
+    width: 200px;
+}
+.s5{
+    height: 200px;
+    width: 200px;
+
+}
+.s6{
+    height: 200px ;
+    width:200px;
+    margin-top: -120%;
+    margin-left: 80%;
+    border-radius: 50%;
+    
+}  
+.a2{
+     height:200px;
+     width: 200px;
+     margin-top: -120%;
+     margin-left:96% ;
+     border-radius:50% ;
+}
