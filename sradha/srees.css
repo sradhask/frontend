@@ -45,37 +45,53 @@
 .a12{
     height:200px;
     width:200px;
-    margin-top:-120%;
+    margin-top:-230%;
     border-radius: 50%;
+    
+}
+.a{
+    margin-top:-105% ;
+    margin-left: 5%;
 }
 
 .a13{
     height:200px;
     width:200px;
     margin-left :16%;
-    margin-top: -120%;
+    margin-top: -17%;
     border-radius: 50%;
     
+}
+.b{
+    margin-top:-2%;
+    margin-left: 22%;
 }
 .s3{
     height: 200px;
     width: 200px;
-    margin-top:-120%;
+    margin-top:-17%;
     margin-left: 32%;
     border-radius: 50%;
 
+
 }
+.c{
+    margin-top: -16%;
+    margin-left:40%;
+
+}
+
 .s4{
     height: 200px;
     width: 200px;
-    margin-top: -120%;
+    margin-top: -17%;
     border-radius:50% ;
     margin-left:48% ;
 }
 .s5{
     height:200px;
     width:200px;
-    margin-top: -120%;
+    margin-top: -17%;
     margin-left: 64%;
     border-radius:50% ;
 }
@@ -91,7 +107,7 @@
 .s6{
     height: 200px ;
     width:200px;
-    margin-top: -120%;
+    margin-top: -17%;
     margin-left: 80%;
     border-radius: 50%;
     
@@ -99,12 +115,14 @@
 .a2{
      height:200px;
      width: 200px;
-     margin-top: -120%;
+     margin-top: -17%;
      margin-left:96% ;
      border-radius:50% ;
 }
-.a9{
+.a17{
     height: 200px;
     width: 200px;;
-     margim top
+     margin-top:-120%;
+     margin-left: 112%;
+     border-radius: 50%;
 }
