@@ -1,8 +1,12 @@
 .main  {
- margin-left:10%;
+ margin-left: 15%;
 }
 .main a{
     text-decoration: none;
+}
+main input{
+  
+    background-color: aqua;
 }
 
 .row{
@@ -10,8 +14,8 @@
     width: 2100px;
     height: 100px;
 }
-.a1{
-    height: 80%;
+.a4{
+    height: 16%;
     width:8%;
 }
 .a6{
@@ -23,16 +27,41 @@
     margin-left: 32%;
     margin-top: -1.1%;
 }
-.a1{
-    margin-left: 34%;
-    margin-top:-1.1%;
+.a10{
+    margin-left:56%;
+ 
+    
 }
 
 .hello{
     background-color: antiquewhite;
+    width: 100%;
 }
-.a9{
-   
-background-image: url(images/Kurtas-_-Kurtis-Banner\ \(1\).webp);
 
+.a9{
+    background-image: url(images/Kurtas-_-Kurtis-Banner\ \(1\).webp);
+    height: 700px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.a2{
+    margin-left: 36%;
+    margin-top: -2%;
+}
+.a6{
+    margin-left: 72%;
+    margin-top: -5%;
+    color:yellow;
+}
+.a3{
+    margin-left:75% ;
+    margin-top: -%;
+}
+.a4{
+    margin-left:78%;
+}
+.a2{
+    margin-left:82% ;
 }
